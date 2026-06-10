@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.cache/
+.env
+
+data/
+results/
+evaluate_results/
+evaluate_weight_distance_results/
+tmp/
+*.log
+
+condaenv*/
+aborted/
